@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.login {
+    background-color: rgb(57, 57, 175);
+    padding: 10px;
+}
